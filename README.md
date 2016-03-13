@@ -2,6 +2,7 @@
 An ongoing list of things I've learned.
 
 ** March 12th, 2016**
+
 Reverse engineering tokens (login/access/session/reset) is harder than I thought.  I guess that means that their security is better than I expected.  Need to learn more about this whole "crpytography" fad ;)
 
 **March 11th, 2016**
