@@ -1,6 +1,10 @@
 # TIL
 An ongoing list of things I've learned.
 
+**March 13th, 2016**
+
+Old news to many, new news to me.  Using JS in the browser you can set `localstorage` so that info can be persisted between sessions without a backend implementation.
+
 **March 12th, 2016**
 
 Reverse engineering tokens (login/access/session/reset) is harder than I thought.  I guess that means that their security is better than I expected.  Need to learn more about this whole "crpytography" fad ;)
