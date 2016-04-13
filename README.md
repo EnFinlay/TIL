@@ -1,6 +1,10 @@
 # TIL
 An ongoing list of things I've learned.
 
+** April 13th, 2016**
+
+Planning/doing a wedding/honeymoon requires taking time off from other things.
+
 **March 13th, 2016**
 
 Old news to many, new news to me.  Using JS in the browser you can set `localstorage` so that info can be persisted between sessions without a backend implementation.
