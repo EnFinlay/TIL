@@ -1,7 +1,7 @@
 # TIL
 An ongoing list of things I've learned.
 
-** April 13th, 2016**
+**April 13th, 2016**
 
 Planning/doing a wedding/honeymoon requires taking time off from other things.
 
