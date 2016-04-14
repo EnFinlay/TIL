@@ -1,6 +1,10 @@
 # TIL
 An ongoing list of things I've learned.
 
+**April 14th, 2016**
+
+Not really a programming TIL, but one of my greater flaws is making things harder than they need to be, simply because I feel I "learn more" or it's better in some way, to do it the hard way. Now that I've noticed this, I'm going to actively fight it.
+
 **April 13th, 2016**
 
 Planning/doing a wedding/honeymoon requires taking time off from other things.
