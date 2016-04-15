@@ -1,6 +1,10 @@
 # TIL
 An ongoing list of things I've learned.
 
+**April 15th, 2016**
+
+There is a security vulnerability triggered by links that open a new tab (`target="_blank"`).  Since the new tab has access to the the window that opened it through the `window.opener` object, the sandboxing between tabs that is mostly taken for granted, is broken.  The solution is to add `relative="noreferrer"` to the link.
+
 **April 14th, 2016**
 
 Not really a programming TIL, but one of my greater flaws is making things harder than they need to be, simply because I feel I "learn more" or it's better in some way, to do it the hard way. Now that I've noticed this, I'm going to actively fight it.
