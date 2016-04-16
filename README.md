@@ -1,6 +1,10 @@
 # TIL
 An ongoing list of things I've learned.
 
+**April 16th, 2016**
+
+Not a complete one really, more of a gotcha that kicked me.  `express` and some mongo drivers call `toJSON` on objects they handle.  So if you're overloading `toJSON` for whatever reason, you might be messing with how your data gets stored and transmitted.  Don't know if this falls under common knowledge or not, but it messed up my day.
+
 **April 15th, 2016**
 
 There is a security vulnerability triggered by links that open a new tab (`target="_blank"`).  Since the new tab has access to the the window that opened it through the `window.opener` object, the sandboxing between tabs that is mostly taken for granted, is broken.  The solution is to add `relative="noreferrer"` to the link.
