@@ -1,6 +1,10 @@
 # TIL
 An ongoing list of things I've learned.
 
+**April 17th, 2016**
+
+It's possible to execute a XSS attack using image files.  https://whitton.io/articles/xss-on-facebook-via-png-content-types/  Cool beans.
+
 **April 16th, 2016**
 
 Not a complete one really, more of a gotcha that kicked me.  `express` and some mongo drivers call `toJSON` on objects they handle.  So if you're overloading `toJSON` for whatever reason, you might be messing with how your data gets stored and transmitted.  Don't know if this falls under common knowledge or not, but it messed up my day.
