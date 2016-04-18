@@ -1,6 +1,10 @@
 # TIL
 An ongoing list of things I've learned.
 
+**April 18th, 2016**
+
+Just because it's possible to run 10k after taking months of break, doesn't mean you should.
+
 **April 17th, 2016**
 
 It's possible to execute a XSS attack using image files.  https://whitton.io/articles/xss-on-facebook-via-png-content-types/  Cool beans.
