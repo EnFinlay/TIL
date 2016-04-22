@@ -1,6 +1,10 @@
 # TIL
 An ongoing list of things I've learned.
 
+**April 22th, 2016**
+
+In Express, it's possible to get a list of all the routes registered to an app using `app._router.stack` or `app.router.stack`.  I haven't fully explored this one yet, but depending on how it handles sub-apps, it may be possible to setup a fun regression test this way.  Fingers crossed.
+
 **April 18th, 2016**
 
 Just because it's possible to run 10k after taking months of break, doesn't mean you should.
