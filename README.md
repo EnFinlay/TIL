@@ -1,6 +1,10 @@
 # TIL
 An ongoing list of things I've learned.
 
+**April 25th, 2016**
+
+If your express app branches (contains sub-apps that trigger server responses without getting back to the original base app) then it will be difficult (or at least ugly) to add a "last" middleware that runs for ALL paths.
+
 **April 22th, 2016**
 
 In Express, it's possible to get a list of all the routes registered to an app using `app._router.stack` or `app.router.stack`.  I haven't fully explored this one yet, but depending on how it handles sub-apps, it may be possible to setup a fun regression test this way.  Fingers crossed.
