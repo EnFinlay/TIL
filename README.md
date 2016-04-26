@@ -1,6 +1,10 @@
 # TIL
 An ongoing list of things I've learned.
 
+**April 26th, 2016**
+
+Probably mostly obvious, but still bears repeating: if your current action is causing a `500 - Internal Server Error`, there's a chance you're causing an uncaught exception to be thrown.  If it's a website you're not trying to DOS, you should probably stop.
+
 **April 25th, 2016**
 
 If your express app branches (contains sub-apps that trigger server responses without getting back to the original base app) then it will be difficult (or at least ugly) to add a "last" middleware that runs for ALL paths.
